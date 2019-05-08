@@ -181,10 +181,13 @@ T 50 -4500,-1000 0 FONTWIRE "LShift";
 T 50 -4450,600 0 FONTWIRE "NoShift";
 T 50 3700,-2600 0 FONTWIRE Y;
 DF;
+DS "2Slice";
 L "Default";
 C "BarrelShifterMux" T 4550,2800;
 C "Bus2" T -1800,-2800;
 C "NoShift2" T -1800,-2800;
 C "Shift2" T -1800,2800;
 C "BusMux" T 4300,-2800;
+DF;
+C "2Slice" T 0,0;
 E
