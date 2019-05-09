@@ -24,7 +24,7 @@ L "Default";
 L CM2;
 W 400 0,-1200 0,1200;
 L BND;
-B 600,2800 0,0;
+B 1998,2800 0,0;
 DF;
 L "Default";
 C "NoShift1Half" T 0,0;
