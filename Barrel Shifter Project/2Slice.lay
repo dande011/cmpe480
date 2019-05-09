@@ -184,7 +184,6 @@ W 400 -1500,1100 1500,1100;
 L BND;
 B 3400,2800 0,0;
 DF;
-
 DS "Shift2"; 
 L "Default";
 L CM2;
@@ -195,7 +194,6 @@ W 400 700,-2600 700,-2400 1400,2450 1400,2600;
 L BND;
 B 3400,5600 0,0;
 DF;
-
 DS "2Slice"; 
 L "Default";
 C "BarrelShifterMux" T 4550,0;

@@ -202,7 +202,6 @@ W 400 2100,-2600 2100,-2400 2800,2450 2800,2600;
 L BND;
 B 6200,5600 0,0;
 DF;
-
 DS "4Slice:4"; 
 L "Default";
 C "BarrelShifterMux" T 4550,0;
