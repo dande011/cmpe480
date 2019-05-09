@@ -138,5 +138,5 @@ T 50 -4450,600 0 FONTWIRE "NoShift";
 T 50 3700,-2600 0 FONTWIRE Y;
 DF;
 L "Default";
-C "BarrelShifterMux" T 0,0;
+C "BarrelShifterMux" MX  R -1,0 T 0,0;
 E
